@@ -1,0 +1,33 @@
+_repo: Rudder-Grange_2011
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stockton, Frank Richard
+    aliases:
+    - Stockton, Francis Richard
+    - Stockton, Frank R. (Frank Richard)
+    birthdate: 1834
+    deathdate: 1902
+    gutenberg_agent_id: '221'
+    url: http://www.gutenberg.org/2009/agents/221
+    wikipedia: http://en.wikipedia.org/wiki/Frank_R._Stockton
+description: ''
+gutenberg_bookshelf: Contemporary Reviews
+gutenberg_issued: '1999-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2011'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Household employees -- Fiction'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Canal-boats -- Fiction'
+- !lcsh 'Housekeeping -- Fiction'
+- !lcsh 'Humorous stories'
+- GITenberg
+title: Rudder Grange
+url: http://www.gutenberg.org/ebooks/2011
